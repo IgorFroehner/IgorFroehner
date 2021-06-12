@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi, Igor here 👋
+
+Computer Science student, enjoying this jorney and learning a lot every day (almost).
+
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorFroehner&theme=radical">](https://github-readme-stats.vercel.app/api?username=IgorFroehner&theme=radical)
+
+- :grin: Java, Python, C/C++
+- :dancers: I’m looking and trying to collaborate more on open source and community projects;
+- :seedling: I’m currently learning, and in love with things about blockchain;
+- :mailbox_closed: How to reach me: issue this repo, or email me: igoor.sf14@hotmail.com;
+- :minidisc: Curently using [Regolith](https://regolith-linux.org/) with [i3wm](https://i3wm.org/);
 
 <!--
 **IgorFroehner/IgorFroehner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +17,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
