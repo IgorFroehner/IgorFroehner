@@ -8,7 +8,6 @@ Computer Science student, enjoying this jorney and learning a lot every day (alm
 - :grin: Java, Python, C/C++
 - :dancers: I’m looking and trying to collaborate more on open source and community projects;
 - :seedling: I’m currently learning, and in love with things about blockchain;
-- :mailbox_closed: How to reach me: issue this repo, or email me: igoor.sf14@hotmail.com;
 - :minidisc: Curently using [Regolith](https://regolith-linux.org/) with [i3wm](https://i3wm.org/);
 
 <!--
