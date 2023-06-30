@@ -3,8 +3,6 @@
 Computer Science student, enjoying this jorney and learning a lot every day (almost).
 
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorFroehner&theme=radical">](https://github-readme-stats.vercel.app/api?username=IgorFroehner&theme=radical)
-
 - :grin: Ruby, Java, Python, C/C++
 - :dancers: I’m looking and trying to collaborate more on open source and community projects;
 <!-- - :seedling: I’m currently learning, and in love with things about blockchain; -->
