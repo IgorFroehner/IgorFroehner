@@ -1,4 +1,6 @@
-### Hi, Igor here 👋
+# Igor Froehner
+
+**`FullStack Software Engineer`**
 
 Computer Scientist, Software Engineer and enjoying this jorney of learning.
 
